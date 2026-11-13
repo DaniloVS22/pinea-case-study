@@ -93,6 +93,24 @@ Detalhes de infraestrutura, integrações e regras internas não são publicados
 - Usar IA para acelerar, mas manter planos, critérios de aceite e auditoria sob controle humano.
 - Tratar segurança como requisito desde o início, não como etapa final.
 
+## Visão de futuro e impacto
+
+A PINEA nasceu para resolver problemas reais enfrentados na participação em licitações públicas. A visão de longo prazo é evoluir para uma **plataforma multiempresa**, acessível a pequenas e médias empresas que queiram fornecer produtos e serviços ao governo.
+
+**Hoje**, a PINEA é um sistema privado, de uso interno. **A expansão multiempresa é uma direção planejada**: ela não existe como produto, e a PINEA não atende comercialmente várias empresas.
+
+O que a plataforma pretende facilitar, como objetivo:
+
+- Descoberta de licitações compatíveis com o perfil comercial de cada empresa.
+- Análise de preços, produtos, marcas e históricos de contratações públicas.
+- Acompanhamento das etapas posteriores à disputa, incluindo empenhos e ordens de compra.
+- Orientação sobre requisitos de participação, documentação e pendências.
+- Redução de barreiras operacionais para pequenas empresas participarem das compras governamentais.
+
+**Benefício potencial:** para uma empresa pequena, o custo de acompanhar editais, exigências e prazos pode ser um obstáculo à participação. Organizar essas informações em um só lugar pode reduzir esse obstáculo.
+
+**O que não se promete:** a plataforma é apoio à organização e à decisão. Ela não garante regularidade documental, habilitação, vitória nem ausência de desclassificação, e a responsabilidade pela participação continua com a empresa. Não há métricas de impacto nem resultados comerciais divulgados.
+
 ## Limites desta apresentação
 
 - Projeto privado, de uso interno, desenvolvido com apoio de IA.
